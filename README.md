@@ -1,2 +1,5 @@
-Python Implementation for paper:
-Circular Phase Representation and Physical Constraints for Ptychographic Imaging Reconstruction
+# Circular Phase Representation and Geometry-Aware Optimization for Ptychographic Image Reconstruction
+
+Official Python implementation of the paper:
+
+> **Circular Phase Representation and Geometry-Aware Optimization for Ptychographic Image Reconstruction**
