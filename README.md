@@ -1,4 +1,5 @@
-<img width="636" height="357.75" alt="Banner" src="https://github.com/user-attachments/assets/a1bc69d2-3eda-4e4c-b2d0-7e405c7b8f94" />
+
+<img width="1353" height="682" alt="CPR" src="https://github.com/user-attachments/assets/16da4027-aaae-4874-947f-5a3868b28f56" />
 
 # Circular Phase Representation and Geometry-Aware Optimization for Ptychographic Image Reconstruction
 
