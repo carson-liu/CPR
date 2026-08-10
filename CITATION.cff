@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Circular Phase Representation for Ptychographic Reconstruction"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Carson Yu
+  - family-names: Cheng
+    given-names: Jun
+  - family-names: Chen
+    given-names: Chien-Chun
+  - family-names: Shu
+    given-names: Steve F.
+repository-code: "https://github.com/carson-liu/CPR"
+url: "https://arxiv.org/abs/2604.26664"
+preferred-citation:
+  type: article
+  title: "Circular Phase Representation and Geometry-Aware Optimization for Ptychographic Image Reconstruction"
+  authors:
+    - family-names: Liu
+      given-names: Carson Yu
+    - family-names: Cheng
+      given-names: Jun
+    - family-names: Chen
+      given-names: Chien-Chun
+    - family-names: Shu
+      given-names: Steve F.
+  journal: "arXiv preprint arXiv:2604.26664"
+  year: 2026
+  url: "https://arxiv.org/abs/2604.26664"
